@@ -32,14 +32,6 @@
           "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
       },
     {
-      "name": "Uniswap (PoS)",
-      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/240px-Uniswap_Logo.svg.png"
-    },
-    {
       "name": "StackOS",
       "address": "0x980111ae1b84e50222c8843e3a7a038f36fecd2b",
       "symbol": "STACK",
@@ -256,12 +248,12 @@
           "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/assets/easyfi-token.png"
       },
       {
-          "name": "Uniswap",
+          "name": "Uniswap (PoS)",
           "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
           "symbol": "UNI",
           "decimals": 18,
           "chainId": 137,
-          "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+          "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/240px-Uniswap_Logo.svg.png"
       },
       {
           "chainId": 137,
