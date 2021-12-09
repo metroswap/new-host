@@ -39,6 +39,14 @@
           "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
       },
     {
+          "chainId": 137,
+          "address": "0x98d0274895a6187e095859D80B6A1248a7FEFB98",
+          "name": "Metronotes",
+          "symbol": "XMN",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+      },
+    {
       "name": "0xMonero from Ethereum",
       "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
       "symbol": "0xMR",
