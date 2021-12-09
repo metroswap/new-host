@@ -1,5 +1,5 @@
 {
-  "name": "Honeyswap Default",
+  "name": "Metroswap Default",
   "timestamp": "2021-12-03T14:23:14.702Z",
   "version": {
     "major": 5,
@@ -7,13 +7,37 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://Qma4TXHsoK3yVtEGCRVeezfVGzokPGLC49Hhyvd9Lf4x2j",
+  "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
   "keywords": [
     "honeyswap",
     "xdai",
     "polygon"
   ],
   "tokens": [
+    {
+            "chainId": 137,
+            "address": "0x43308565c0204c8076a291f0726f914c3133ce34",
+            "name": "Tetcoin",
+            "symbol": "TET",
+            "decimals": 18,
+            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+        },
+      {
+          "chainId": 137,
+          "address": "0xcd9c7397b0ef2e9b2a9440d61b0e1e3351a38a28",
+          "name": "Litetokens",
+          "symbol": "XLT",
+          "decimals": 18,
+          "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+      },
+      {
+          "chainId": 137,
+          "address": "0xd422089785ada2762343b209b43bc48dd7ad4ae9",
+          "name": "Czarcoin",
+          "symbol": "CZR",
+          "decimals": 18,
+          "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+      },
     {
       "name": "0xMonero from Ethereum",
       "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
@@ -2455,12 +2479,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12819/small/UniLend_Finance_logo_PNG.png?1602748658"
     },
     {
-      "name": "Uniswap",
+      "name": "Uniswap (PoS)",
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/240px-Uniswap_Logo.svg.png"
     },
     {
       "name": "USD Coin",
