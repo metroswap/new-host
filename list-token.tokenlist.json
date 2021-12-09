@@ -32,6 +32,14 @@
           "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
       },
     {
+      "name": "Uniswap (PoS)",
+      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg/"
+    },
+    {
       "name": "StackOS",
       "address": "0x980111ae1b84e50222c8843e3a7a038f36fecd2b",
       "symbol": "STACK",
