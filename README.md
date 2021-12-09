@@ -1,1 +1,1 @@
-# Default token list for [Dfyn Exchange](https://exchange.dfyn.network/)
+# Default token list for [Metroswap Exchange](https://app.metroswap.org/)
