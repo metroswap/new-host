@@ -47,6 +47,14 @@
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
       },
     {
+          "chainId": 137,
+          "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+          "name": "Chi Gastoken by 1inch",
+          "symbol": "CHI",
+          "decimals": 0,
+          "logoURI": "https://github.com/1inch/chi/raw/master/RAW/chi.png"
+      },
+    {
       "name": "0xMonero from Ethereum",
       "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
       "symbol": "0xMR",
