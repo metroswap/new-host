@@ -55,6 +55,14 @@
           "logoURI": "https://github.com/1inch/chi/raw/master/RAW/chi.png"
       },
     {
+      "name": "Binance Token",
+      "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
       "name": "0xMonero from Ethereum",
       "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
       "symbol": "0xMR",
