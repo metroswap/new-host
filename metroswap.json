@@ -87,6 +87,30 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
     },
     {
+      "name": "Dai Stablecoin",
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "symbol": "DAI.e",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+      "symbol": "USDT.e",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
       "name": "0xMonero from Ethereum",
       "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
       "symbol": "0xMR",
