@@ -9,14 +9,30 @@
   "tags": {},
   "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
   "keywords": [
-    "honeyswap",
+    "metroswap",
+    "ethereum",
+    "binance",
+    "avalanche",
     "xdai",
-    "polygon"
+    "polygon",
+    "fantom",
+    "iotex",
+    "harmony",
+    "callisto",
+    "fuse"
   ],
   "tokens": [
     {
             "chainId": 137,
             "address": "0x43308565c0204c8076a291f0726f914c3133ce34",
+            "name": "Tetcoin",
+            "symbol": "TET",
+            "decimals": 18,
+            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+        },
+    {
+            "chainId": 100,
+            "address": "0xA66Bb5755391C0202353dC1b708d13A97444e5B8",
             "name": "Tetcoin",
             "symbol": "TET",
             "decimals": 18,
