@@ -59,7 +59,7 @@
           "address": "0x98d0274895a6187e095859D80B6A1248a7FEFB98",
           "name": "Metronotes",
           "symbol": "XMN",
-          "decimals": 18,
+          "decimals": 9,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
       },
     {
