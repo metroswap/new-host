@@ -22,6 +22,14 @@
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
         },
         {
+          "chainId": 250,
+          "address": "0x2A13935a9729e618C5AF17dd639590860C87E207",
+          "name": "HYPERFANTOM",
+          "symbol": "HYPERFANTOM",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+        },
+        {
             "chainId": 250,
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "decimals": 18,
