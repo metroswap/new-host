@@ -14,6 +14,14 @@
     },
     "tokens": [
         {
+          "chainId": 250,
+          "address": "0xCf153fC756D062bc6c8F0712c4E8c348ca9Be214",
+          "name": "Metronotes",
+          "symbol": "XMN",
+          "decimals": 9,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+        },
+        {
             "chainId": 250,
             "address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "decimals": 18,
