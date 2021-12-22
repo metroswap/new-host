@@ -14,6 +14,30 @@
     },
     "tokens": [
         {
+            "chainId": 250,
+            "address": "0x2814541f73d718cb66636c755ff33dfbf63715c4",
+            "name": "Tetcoin",
+            "symbol": "TET",
+            "decimals": 18,
+            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+        },
+      {
+          "chainId": 250,
+          "address": "0x16d8adf3d5b93aa3a9ef2daa9521ced713838387",
+          "name": "Litetokens",
+          "symbol": "XLT",
+          "decimals": 18,
+          "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+      },
+      {
+          "chainId": 250,
+          "address": "0xa3d098f1d5035b9e259971a8f4c0dcf5a56c8762",
+          "name": "Czarcoin",
+          "symbol": "CZR",
+          "decimals": 18,
+          "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+      },
+        {
           "chainId": 250,
           "address": "0xCf153fC756D062bc6c8F0712c4E8c348ca9Be214",
           "name": "Metronotes",
