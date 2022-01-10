@@ -120,7 +120,7 @@
         {
             "chainId": 250,
             "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
-            "decimals": 18,
+            "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x095370AE41FF23798d96c1ADF7D58Ae6a2b05b18/logo.png"
