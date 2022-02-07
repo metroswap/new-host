@@ -70,6 +70,14 @@
           "decimals": 0,
           "logoURI": "https://github.com/1inch/chi/raw/master/RAW/chi.png"
       },
+      {
+          "chainId": 137,
+          "address": "0x99c73Cf56CBbF02DDf035f43bE6E90e29927c9B9",
+          "name": "Bridged DAI (PoS)",
+          "symbol": "bDAI",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+      },
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
