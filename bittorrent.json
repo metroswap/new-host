@@ -102,6 +102,22 @@
           "symbol": "bBTC",
           "decimals": 8,
           "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+      },
+      {
+          "chainId": 199,
+          "address": "0xA98b43551e9777e82616AEe9b6C5f3fb25A20386",
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "decimals": 18,
+          "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0xd48788838B700ec4364E5A8e32DDcF96c9E6227E",
+          "name": "Bridged Ethereum (PoS)",
+          "symbol": "bETH",
+          "decimals": 18,
+          "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
       }
   ]
 }
