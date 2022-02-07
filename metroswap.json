@@ -79,12 +79,20 @@
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
       },
       {
-          "chainId": 199,
+          "chainId": 137,
           "address": "0x669999c2353358e0B84D523f3318acBc106D14e5",
           "name": "Bridged Ethereum (PoS)",
           "symbol": "bETH",
           "decimals": 18,
           "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+      },
+      {
+          "chainId": 137,
+          "address": "0x6cc7F33259Bfdc104554308DDe856BE206cc6FF4",
+          "name": "Bridged Bitcoin (PoS)",
+          "symbol": "bBTC",
+          "decimals": 8,
+          "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
       },
     {
       "name": "Binance Token",
