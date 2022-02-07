@@ -78,6 +78,14 @@
           "decimals": 18,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
       },
+      {
+          "chainId": 199,
+          "address": "0x669999c2353358e0B84D523f3318acBc106D14e5",
+          "name": "Bridged Ethereum (PoS)",
+          "symbol": "bETH",
+          "decimals": 18,
+          "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+      },
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
