@@ -1,0 +1,99 @@
+{
+  "name": "Metroswap Default",
+  "timestamp": "2021-12-03T14:23:14.702Z",
+  "version": {
+    "major": 5,
+    "minor": 18,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+  "keywords": [
+    "metroswap",
+    "ethereum",
+    "binance",
+    "avalanche",
+    "xdai",
+    "polygon",
+    "fantom",
+    "iotex",
+    "harmony",
+    "callisto",
+    "fuse",
+    "bittorrent"
+  ],
+  "tokens": [
+    {
+            "chainId": 199,
+            "address": "0xA66Bb5755391C0202353dC1b708d13A97444e5B8",
+            "name": "Tetcoin",
+            "symbol": "TET",
+            "decimals": 18,
+            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+        },
+      {
+          "chainId": 199,
+          "address": "0x5321b9496a54A82044B679B2FfB28B25984743da",
+          "name": "Litetokens",
+          "symbol": "XLT",
+          "decimals": 18,
+          "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0x2143D2387607bf98805477ce262B574c8cA02952",
+          "name": "Czarcoin",
+          "symbol": "CZR",
+          "decimals": 18,
+          "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+      },
+    {
+          "chainId": 199,
+          "address": "0x5d9a3948a688aa40b5F2e1Ab58B80872FfF038A7",
+          "name": "Metronotes",
+          "symbol": "XMN",
+          "decimals": 9,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+      },
+    {
+          "chainId": 199,
+          "address": "0xE6F3a758298d88Ae5fA56d632D4e195a44A9Ae96",
+          "name": "Bridged DAI (PoS)",
+          "symbol": "bDAI",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0xb09349DDd39454d539EDC17Fc68eCC50E8e13377",
+          "name": "HYPERBTT",
+          "symbol": "HYPERBTT",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/hyperbtt100.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0xCa424b845497f7204D9301bd13Ff87C0E2e86FCF",
+          "name": "USD Coin BSC",
+          "symbol": "USDC",
+          "decimals": 6,
+          "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+          "name": "Tether USD_TRON",
+          "symbol": "USDT_t",
+          "decimals": 6,
+          "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+      },
+      {
+          "chainId": 199,
+          "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+          "name": "TRON",
+          "symbol": "TRX",
+          "decimals": 6,
+          "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+      }
+  ]
+}
