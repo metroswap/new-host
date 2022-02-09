@@ -123,7 +123,7 @@
           "address": "0x96254554ac50c841772f0cec8a9874e05ebafc95",
           "name": "Simple USD",
           "symbol": "USDS",
-          "decimals": 18,
+          "decimals": 2,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
       },
     {
