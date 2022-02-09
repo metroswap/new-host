@@ -96,7 +96,7 @@
       },
       {
           "chainId": 137,
-          "address": "0x6cc7F33259Bfdc104554308DDe856BE206cc6FF4",
+          "address": "0xd18e7577e67eE2B2E03CFEdD41193Ded64553C13",
           "name": "Bridged BNB (PoS)",
           "symbol": "bBNB",
           "decimals": 8,
