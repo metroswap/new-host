@@ -120,7 +120,7 @@
       },
       {
           "chainId": 137,
-          "address": "0xc3387412df59968fb0e10e6462ad4da9d8d637bb",
+          "address": "0x96254554ac50c841772f0cec8a9874e05ebafc95",
           "name": "Simple USD",
           "symbol": "USDS",
           "decimals": 18,
