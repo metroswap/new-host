@@ -102,6 +102,14 @@
           "decimals": 8,
           "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/info/logo.png"
       },
+      {
+          "chainId": 137,
+          "address": "0xc3387412df59968fb0e10e6462ad4da9d8d637bb",
+          "name": "Bridged TRON (PoS)",
+          "symbol": "bTRX",
+          "decimals": 18,
+          "logoURI": "https://assets.trustwalletapp.com/blockchains/tron/info/logo.png"
+      },
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
