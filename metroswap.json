@@ -94,6 +94,14 @@
           "decimals": 8,
           "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
       },
+      {
+          "chainId": 137,
+          "address": "0x6cc7F33259Bfdc104554308DDe856BE206cc6FF4",
+          "name": "Bridged BNB (PoS)",
+          "symbol": "bBNB",
+          "decimals": 8,
+          "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/info/logo.png"
+      }
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
