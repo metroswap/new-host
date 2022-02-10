@@ -126,6 +126,14 @@
           "decimals": 2,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
       },
+      {
+          "chainId": 137,
+          "address": "0xE8e96dc55573F308074569521E37f3bd532D2e9D",
+          "name": "HYPERMATIC",
+          "symbol": "HYPERMATIC",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/hypermatic-200.png"
+      },
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
