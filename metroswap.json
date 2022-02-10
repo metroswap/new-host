@@ -134,6 +134,14 @@
           "decimals": 18,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/hypermatic-200.png"
       },
+      {
+          "chainId": 137,
+          "address": "0xD365dc174539cdc274f09eC3eb7a58B524a49445",
+          "name": "HYPERBTC",
+          "symbol": "HYPERBTC",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/hyperbtc-200.png"
+      },
     {
       "name": "Binance Token",
       "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
