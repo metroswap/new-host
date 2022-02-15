@@ -30,7 +30,7 @@
       "name": "Tetcoin",
       "symbol": "TET",
       "decimals": 18,
-      "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+      "logoURI": "https://raw.githubusercontent.com/tetcoin/tetcoin.github.io/main/img/TET-transparent-200.png"
     },
     {
       "chainId": 820,
@@ -38,7 +38,7 @@
       "name": "Litetokens",
       "symbol": "XLT",
       "decimals": 18,
-      "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+      "logoURI": "https://raw.githubusercontent.com/litetokens/litetokens.github.io/main/img/xlt200.png"
     },
     {
       "chainId": 820,
@@ -46,7 +46,7 @@
       "name": "Czarcoin",
       "symbol": "CZR",
       "decimals": 18,
-      "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+      "logoURI": "https://raw.githubusercontent.com/czarcoin/czarcoin.github.io/main/img/czr.png"
     },
     {
       "chainId": 820,
@@ -54,7 +54,7 @@
       "name": "Metronotes",
       "symbol": "XMN",
       "decimals": 9,
-      "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+      "logoURI": "https://raw.githubusercontent.com/metronotes/metronotes.github.io/main/img/xmn100.png"
     },
     {
       "chainId": 820,
@@ -62,7 +62,7 @@
       "name": "Bridged DAI (PoS)",
       "symbol": "bDAI",
       "decimals": 18,
-      "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+      "logoURI": "https://raw.githubusercontent.com/metronotes/metronotes.github.io/main/img/bDAI.png"
     },
     {
       "chainId": 820,
@@ -102,7 +102,7 @@
       "name": "Metro Wrapped CLO",
       "symbol": "WCLO.m",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4051/large/CLO.png?1613015885"
+      "logoURI": "https://raw.githubusercontent.com/metronotes/metronotes.github.io/main/img/WCLO.m-200.png"
     }
   ]
 }
