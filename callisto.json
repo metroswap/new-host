@@ -95,6 +95,14 @@
       "symbol": "bETH",
       "decimals": 18,
       "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+      "chainId": 820,
+      "address": "0xfa1d4c53Cb8a0f0ec1C635cd5DfD68637664C07D",
+      "name": "Metro Wrapped CLO",
+      "symbol": "WCLO.m",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4051/large/CLO.png?1613015885"
     }
   ]
 }
