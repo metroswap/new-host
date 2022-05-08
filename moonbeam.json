@@ -1,0 +1,109 @@
+{
+    "name": "Metroswap Default",
+    "timestamp": "2021-12-03T14:23:14.702Z",
+    "version": {
+      "major": 5,
+      "minor": 18,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+    "keywords": [
+      "metroswap",
+      "ethereum",
+      "binance",
+      "avalanche",
+      "xdai",
+      "polygon",
+      "fantom",
+      "iotex",
+      "harmony",
+      "callisto",
+      "fuse",
+      "bittorrent",
+      "moonbeam"
+    ],
+    "tokens": [
+      {
+              "chainId": 1284,
+              "address": "0xA66Bb5755391C0202353dC1b708d13A97444e5B8",
+              "name": "Tetcoin",
+              "symbol": "TET",
+              "decimals": 18,
+              "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+          },
+        {
+            "chainId": 1284,
+            "address": "0x5321b9496a54A82044B679B2FfB28B25984743da",
+            "name": "Litetokens",
+            "symbol": "XLT",
+            "decimals": 18,
+            "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0x2143D2387607bf98805477ce262B574c8cA02952",
+            "name": "Czarcoin",
+            "symbol": "CZR",
+            "decimals": 18,
+            "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+        },
+      {
+            "chainId": 1284,
+            "address": "0x5d9a3948a688aa40b5F2e1Ab58B80872FfF038A7",
+            "name": "Metronotes",
+            "symbol": "XMN",
+            "decimals": 9,
+            "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+        },
+      {
+            "chainId": 1284,
+            "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+            "name": "DAI Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0xA98b43551e9777e82616AEe9b6C5f3fb25A20386",
+            "name": "Bridged Bitcoin (PoS)",
+            "symbol": "bBTC",
+            "decimals": 8,
+            "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+        },
+        {
+            "chainId": 1284,
+            "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+            "name": "Wrapped GLMR",
+            "symbol": "WGLMR",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/23688/large/wglmr.jpg?1645008579"
+        }
+    ]
+  }
+  
