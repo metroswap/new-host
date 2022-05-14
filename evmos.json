@@ -1,0 +1,67 @@
+{
+    "name": "Metroswap Default",
+    "timestamp": "2021-12-03T14:23:14.702Z",
+    "version": {
+      "major": 5,
+      "minor": 18,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+    "keywords": [
+      "metroswap",
+      "evmos"
+    ],
+    "tokens": [
+      
+        {
+            "chainId": 9001,
+            "address": "0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA",
+            "name": "DAI Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734"
+        },
+        {
+            "chainId": 9001,
+            "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "chainId": 9001,
+            "address": "0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "chainId": 9001,
+            "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880"
+        },
+        {
+            "chainId": 9001,
+            "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+            "name": "Wrapped Evmos",
+            "symbol": "WEVMOS",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24023/large/logo-orange.png?1651223278"
+        },
+        {
+            "chainId": 9001,
+            "address": "0xF80699Dc594e00aE7bA200c7533a07C1604A106D",
+            "name": "Wrapped Bitcoin",
+            "symbol": "BTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+        }
+    ]
+  }
+  

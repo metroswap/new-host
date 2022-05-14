@@ -22,6 +22,14 @@
     "fuse"
   ],
   "tokens": [
+    {
+        "chainId": 1666600000,
+        "address": "0x005b1b3a9C43F0F4F18aaA6bb9079044D67988D3",
+        "symbol": "HTE",
+        "name": "HTE<>ETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+      },
   {
     "chainId": 1666600000,
     "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",

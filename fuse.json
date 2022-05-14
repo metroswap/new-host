@@ -22,6 +22,30 @@
     "fuse"
   ],
   "tokens": [
+    {
+        "chainId": 122,
+        "address": "0xCf153fC756D062bc6c8F0712c4E8c348ca9Be214",
+        "name": "Metronotes",
+        "symbol": "XMN",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/metronotes/metronotes.github.io/main/img/xmn100.png"
+      },
+      {
+        "chainId": 122,
+        "address": "0x7c75445c5123c78ea276723dd3632570417729fc",
+        "name": "Simple USD",
+        "symbol": "USDS",
+        "decimals": 18,
+        "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
+      },
+      {
+        "chainId": 122,
+        "address": "0xC1DD10aF38A7dD06cfe1f16b9c6179Cc46be4D9A",
+        "name": "Lite Governance Token",
+        "symbol": "LGT",
+        "decimals": 18,
+        "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+    },
   {
     "name": "Dai Stablecoin on Fuse",
     "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",

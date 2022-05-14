@@ -1,0 +1,75 @@
+{
+    "name": "Metroswap Default",
+    "timestamp": "2021-12-03T14:23:14.702Z",
+    "version": {
+      "major": 5,
+      "minor": 18,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+    "keywords": [
+      "metroswap",
+      "astar"
+    ],
+    "tokens": [
+      
+        {
+            "chainId": 10000,
+            "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+            "name": "DAI Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734"
+        },
+        {
+            "chainId": 10000,
+            "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "chainId": 10000,
+            "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "chainId": 10000,
+            "address": "0x13481632D142F28cb51B7608C7eF6AE9325C0Ae5",
+            "name": "Metro Wrapped Ether",
+            "symbol": "METH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880"
+        },
+        {
+            "chainId": 10000,
+            "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+            "name": "Wrapped BCH",
+            "symbol": "WBCH",
+            "decimals": 18,
+            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMARTBCH.png"
+        },
+        {
+            "chainId": 10000,
+            "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
+            "name": "Wrapped Bitcoin",
+            "symbol": "BTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+        },
+        {
+            "chainId": 10000,
+            "address": "0xCf153fC756D062bc6c8F0712c4E8c348ca9Be214",
+            "name": "Metronotes",
+            "symbol": "XMN",
+            "decimals": 9,
+            "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+        }
+    ]
+  }
+  

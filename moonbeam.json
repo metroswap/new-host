@@ -59,10 +59,18 @@
       {
             "chainId": 1284,
             "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+            "name": "Bridged DAI Stablecoin",
+            "symbol": "bDAI",
+            "decimals": 18,
+            "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+        },
+        {
+            "chainId": 1284,
+            "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
             "name": "DAI Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/bDAI.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734"
         },
         {
             "chainId": 1284,

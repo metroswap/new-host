@@ -22,7 +22,8 @@
     "fuse"
   ],
   "tokens": [
-      {
+    
+    {
       "name": "Wrapped Matic",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "symbol": "WMATIC",
@@ -38,14 +39,7 @@
             "decimals": 18,
             "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
         },
-    {
-            "chainId": 100,
-            "address": "0xA66Bb5755391C0202353dC1b708d13A97444e5B8",
-            "name": "Tetcoin",
-            "symbol": "TET",
-            "decimals": 18,
-            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
-        },
+    
       {
           "chainId": 137,
           "address": "0xcd9c7397b0ef2e9b2a9440d61b0e1e3351a38a28",
@@ -169,11 +163,35 @@
       {
           "chainId": 137,
           "address": "0x96254554ac50c841772f0cec8a9874e05ebafc95",
-          "name": "Simple USD",
+          "name": "Simple USD (Not Supported)",
           "symbol": "USDS",
           "decimals": 2,
           "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
       },
+      {
+        "chainId": 137,
+        "address": "0x84EE70FDaa980931981D1472334F5039a75977d0",
+        "name": "Simple USD",
+        "symbol": "USDS",
+        "decimals": 18,
+        "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
+    },
+    {
+        "chainId": 137,
+        "address": "0x46D10ECBD98C4f4E7486Bfa1E9F38DccD8a84DBF",
+        "name": "Metro Staked Ether",
+        "symbol": "METH",
+        "decimals": 18,
+        "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+        "chainId": 137,
+        "address": "0xEf1241dCdAf54c836dcB9Ad7bFc102a930E96E18",
+        "name": "Dust Protocol",
+        "symbol": "DUST",
+        "decimals": 18,
+        "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+    },
       {
           "chainId": 137,
           "address": "0xE8e96dc55573F308074569521E37f3bd532D2e9D",

@@ -1,0 +1,50 @@
+{
+    "name": "Metroswap Default",
+    "timestamp": "2021-12-03T14:23:14.702Z",
+    "version": {
+      "major": 5,
+      "minor": 18,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+    "keywords": [
+      "metroswap",
+      "xdai",
+      "gnosis"
+    ],
+    "tokens": [
+      {
+          "chainId": 100,
+          "address": "0xA66Bb5755391C0202353dC1b708d13A97444e5B8",
+          "name": "Tetcoin",
+          "symbol": "TET",
+          "decimals": 18,
+          "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+      },
+      {
+          "chainId": 100,
+          "address": "0x7c75445c5123c78ea276723dd3632570417729fc",
+          "name": "Simple USD",
+          "symbol": "USDS",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/usds-200.png"
+      },
+      {
+          "chainId": 100,
+          "address": "0xB98650ca989ECECcb8c31341F3668b6995Aad8C5",
+          "name": "Lite Governance Token",
+          "symbol": "LGT",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+      },
+      {
+          "chainId": 100,
+          "address": "0xd1cFE4657af29Be5a648DF77ab590c7296183128",
+          "name": "Envoy Token",
+          "symbol": "ENVOY",
+          "decimals": 18,
+          "logoURI": "https://github.com/metronotes/metronotes.github.io/raw/main/img/xmn100.png"
+      }
+    ]
+}

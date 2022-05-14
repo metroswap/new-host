@@ -1,0 +1,67 @@
+{
+    "name": "Metroswap Default",
+    "timestamp": "2021-12-03T14:23:14.702Z",
+    "version": {
+      "major": 5,
+      "minor": 18,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+    "keywords": [
+      "metroswap",
+      "celo"
+    ],
+    "tokens": [
+      
+        {
+            "chainId": 42220,
+            "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
+            "name": "DAI Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4",
+            "name": "Metro Wrapped CELO",
+            "symbol": "WCELO.m",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11090/large/icon-celo-CELO-color-500.png?1592293590"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+            "name": "Wrapped Bitcoin",
+            "symbol": "BTC",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11090/large/icon-celo-CELO-color-500.png?1592293590"
+        }
+    ]
+  }
+  
