@@ -10,60 +10,60 @@
     "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
     "keywords": [
       "metroswap",
-      "smartbch"
+      "thundercore"
     ],
     "tokens": [
       
         {
-            "chainId": 10000,
-            "address": "0xf3f68E1Fd8FD5949C197299C97a6295687aEf9c3",
+            "chainId": 108,
+            "address": "0xB743e0c9020b27D415C533D905832af9Ab9e45f9",
             "name": "Metro Wrapped DAI",
             "symbol": "MDAI",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png?1636636734"
         },
         {
-            "chainId": 10000,
-            "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+            "chainId": 108,
+            "address": "0x4d4B723F7dB1419517a560CFAF54eC7A431C1a43",
             "name": "Metro Wrapped USDC",
             "symbol": "MUSDC",
             "decimals": 6,
             "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
         },
         {
-            "chainId": 10000,
-            "address": "0xB743e0c9020b27D415C533D905832af9Ab9e45f9",
+            "chainId": 108,
+            "address": "0x95319b44251925c2eE126Ed9aad57a68eFAA8231",
             "name": "Metro Wrapped USDT",
             "symbol": "MUSDT",
             "decimals": 6,
             "logoURI": "https://coin.top/production/logo/usdtlogo.png"
         },
         {
-            "chainId": 10000,
-            "address": "0x13481632D142F28cb51B7608C7eF6AE9325C0Ae5",
+            "chainId": 108,
+            "address": "0xf3f68E1Fd8FD5949C197299C97a6295687aEf9c3",
             "name": "Metro Wrapped Ether",
             "symbol": "METH",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880"
         },
         {
-            "chainId": 10000,
-            "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
-            "name": "Wrapped BCH",
-            "symbol": "WBCH",
+            "chainId": 108,
+            "address": "0x71F83A462C6d2674c731C0a67a0A6Ddf6562DC2d",
+            "name": "Metro Wrapped TT",
+            "symbol": "MWTT",
             "decimals": 18,
-            "logoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/SMARTBCH.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/4375/large/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349"
         },
         {
-            "chainId": 10000,
-            "address": "0x95319b44251925c2eE126Ed9aad57a68eFAA8231",
-            "name": "Wrapped Bitcoin",
-            "symbol": "BTC",
-            "decimals": 18,
+            "chainId": 108,
+            "address": "0xEf62BAC28eE2d053ED98f96425682eB483F3c4c6",
+            "name": "Metro Wrapped Bitcoin",
+            "symbol": "MBTC",
+            "decimals": 8,
             "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
         },
         {
-            "chainId": 10000,
+            "chainId": 108,
             "address": "0xCf153fC756D062bc6c8F0712c4E8c348ca9Be214",
             "name": "Metronotes",
             "symbol": "XMN",
